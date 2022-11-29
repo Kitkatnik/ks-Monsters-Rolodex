@@ -4,7 +4,7 @@
 
 ![screely-1668830790880](https://user-images.githubusercontent.com/5871075/202834983-aebee882-5af2-4844-b2e6-ffe435f43ba7.png)
 
-[Click Here to Demo](https://kitkatnik.github.io/monsters-rolodex/)
+[Click Here to Demo](https://kitkatnik.github.io/ks-monsters-rolodex/)
 
 </div>
 
